@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 ME165/Lecture[[:space:]]5.pptx filter=lfs diff=lfs merge=lfs -text
+ME165/Aminul[[:space:]]Sir/Lecture[[:space:]]5.pptx filter=lfs diff=lfs merge=lfs -text
