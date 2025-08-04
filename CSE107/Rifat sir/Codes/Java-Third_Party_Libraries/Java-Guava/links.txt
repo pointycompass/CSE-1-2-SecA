@@ -1,0 +1,11 @@
+https://github.com/google/guava
+https://www.youtube.com/watch?v=MFEJll-wU7Q
+https://www.baeldung.com/guava-series
+https://www.baeldung.com/guava-math
+https://www.baeldung.com/guava-lists
+https://www.baeldung.com/guava-joiner-and-splitter-tutorial
+https://www.geeksforgeeks.org/java/splitter-class-guava-java
+https://www.geeksforgeeks.org/java/joiner-class-guava-java
+
+https://commons.apache.org/
+https://www.baeldung.com/apache-commons-series

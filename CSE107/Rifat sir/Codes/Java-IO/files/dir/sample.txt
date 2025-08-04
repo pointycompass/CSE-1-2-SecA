@@ -1,0 +1,8 @@
+Provides useful information about a file or directory
+Does not open files or process files
+To obtain or manipulate path, time, date, permissions etc
+Constructor
+File(String directoryPath) 
+File(String directoryPath, String fileName)
+File(File dirObj, String fileName)
+Example: FileDemo.java
